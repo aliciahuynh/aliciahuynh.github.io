@@ -26,7 +26,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 # Author settings
 author: Alicia Huynh # add your name
 author-pic: Myself_Neon_grey.jpg
-about-author: ...
+about-author: https://github.com/aliciahuynh/business_card/releases/latest
 
 # Contact links
 email: alicia.huynh02@gmail.com # Add your Email address
@@ -35,8 +35,9 @@ website: https://aliciahuynh.github.io # Add your website
 linkedin: # Add your Linkedin handle
 github: aliciahuynh # Add your Github handle
 twitter: # Add your Twitter handle
-bandcamp: https://github.com/aliciahuynh/business_card/releases/latest
+bandcamp: # Add your Bandcamp username
 stackoverflow: # Add your stackoverflow account
+business_card: https://github.com/aliciahuynh/business_card/releases/latest
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
