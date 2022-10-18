@@ -1,0 +1,18 @@
+---
+layout: post
+read_time: true
+show_date: true
+title:  What a day!
+date:   2022-10-18 13:32:20 -0600
+description: Didn't do nothing today but still felt like saying it!
+img: assets/img/posts/20221018/flemme.jpg 
+tags: [red panda, animal lover, lazying]
+author: Alicia Huynh
+github:
+mathjax: yes
+---
+Nothing much to say, I was being lazy and browsed up a bit.
+
+## Don't you think red pandas are cute?
+
+Check out those cuties [Pics](https://www.istockphoto.com/fr/photos/red-panda-cute) d
