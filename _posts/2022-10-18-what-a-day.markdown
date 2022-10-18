@@ -8,8 +8,6 @@ description: Didn't do nothing today but still felt like saying it!
 img: assets/img/posts/20221018/flemme.jpg 
 tags: [red panda, animal lover, lazying]
 author: Alicia Huynh
-github:
-mathjax: yes
 ---
 Nothing much to say, I was being lazy and browsed up a bit.
 
